@@ -21,7 +21,7 @@
 
 ### Evidence of Work
 
-- GitHub repository link: [https://github.com/yourusername/ICT105-TeamName-MVP](https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP.git)
+- GitHub repository link: [https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP.git]
 - Screenshot: Repository setup screenshot attached.
 - File created:
   - README.md
@@ -29,7 +29,7 @@
   - docs/team-profile.md
   - docs/weekly-logbook.md
 
-- Commit link: [https://github.com/yourusername/ICT105-TeamName-MVP/commit/your-commit-id](https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP/commit/00517ac1186de92326d6ee7086ed2e4f432023a1)
+- Commit link: [https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP/commit/00517ac1186de92326d6ee7086ed2e4f432023a1]
 
 ### Decision Made This Week
 
