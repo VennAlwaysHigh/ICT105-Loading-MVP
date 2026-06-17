@@ -1,2 +1,10 @@
-<img width="1311" height="434" alt="image" src="https://github.com/user-attachments/assets/e2dda6ad-87ac-4df5-aa62-3cfb9c061232" />
+# Lab 02 Opportunity Scanning
+
+## Ideas Reviewed from Lab 1
+
+| Idea | Problem Area | Target User | Current Alternative | Initial Technology Direction | 
+|---|---|---|---|---| 
+| Idea 1 | | | | | 
+| Idea 2 | | | | | 
+| Idea 3 | | | | | 
 
