@@ -21,7 +21,7 @@
 
 ### Evidence of Work
 
-- GitHub repository link: [https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP.git]
+- GitHub repository link: https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP.git
 - Screenshot: Repository setup screenshot attached.
 - File created:
   - README.md
@@ -29,7 +29,7 @@
   - docs/team-profile.md
   - docs/weekly-logbook.md
 
-- Commit link: [https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP/commit/00517ac1186de92326d6ee7086ed2e4f432023a1]
+- Commit link: https://github.com/VennAlwaysHigh/ICT105-Quartet-MVP/commit/00517ac1186de92326d6ee7086ed2e4f432023a1
 
 ### Decision Made This Week
 
@@ -76,9 +76,9 @@ Although useful, similar solutions already exist through Facebook groups and cam
 
 ### Evidence of Work
 
-- Opportunity scan file: [docs/ opportunity-scan.md]
-- NUF scoring file: [docs/ opportunity-scan.md]
-- Selected opportunity file: [docs/ selected-opportunity.md]
+- Opportunity scan file: docs/ opportunity-scan.md
+- NUF scoring file: docs/ opportunity-scan.md
+- Selected opportunity file: docs/ selected-opportunity.md
 - GitHub issue screenshot: Added in repository evidence
 - Commit link: Latest Lab 02 commit in GitHub repository
 
